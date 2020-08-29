@@ -6,6 +6,7 @@ Here's an image of the circuit
 
 ![DHT11_circuit](circuit.png)
 
+<img src="file://circuit.png" alt="alt text" width="200"/>
 
 
 - [X] Arduino 
